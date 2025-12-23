@@ -21,8 +21,8 @@
 
 - 📫 **Email:** amazingabhi69@gmail.com  
 - 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek%20Kumar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abhishek-kumar-3b136a268)
+- 🧑‍💻 [![GitHub](https://img.shields.io/badge/GitHub-Amazeabhi-black?style=flat&logo=github)](https://github.com/Amazeabhi)
 
-- 🧑‍💻 **GitHub:** https://github.com/Amazeabhi 
 
 ---
 
