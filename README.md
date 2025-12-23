@@ -1,4 +1,4 @@
-# 👋 Hello Developers, I'm Abhishek Kumar (Amazeabhi)
+# 👋 Hello Developers, I'm Abhishek Kumar
 
 🚀 **Software Engineer | Full-Stack Developer | Java & Spring Boot Enthusiast**  
 💻 Passionate about building real-world applications and learning by doing  
@@ -32,17 +32,27 @@
 - Focused on practical projects  
 - Improving code quality and system design
 
-# 📊 GitHub Stats :
 ![](https://nirzak-streak-stats.vercel.app/?user=Amazeabhi&theme=dark&hide_border=falseh)
 ---
 
 🛠️ Tech Stack
 
-💻 Java · JavaScript · HTML · CSS
-🎨 React · Bootstrap · Tailwind CSS
-⚙️ Spring Boot · REST APIs
-🗄️ MySQL · MongoDB
-🧰 Git · GitHub · VS Code · Postman
+🛠️ TECH STACK
+
+1️⃣ 💻 Languages
+➡️ Java · JavaScript · HTML · CSS
+
+2️⃣ 🎨 Frontend
+➡️ React · Bootstrap · Tailwind CSS
+
+3️⃣ ⚙️ Backend
+➡️ Spring Boot · REST APIs
+
+4️⃣ 🗄️ Databases
+➡️ MySQL · MongoDB
+
+5️⃣ 🧰 Tools
+➡️ Git · GitHub · VS Code · Postman
 ---
 
 ## 🚀 Featured Projects
@@ -53,17 +63,34 @@
 - Real-world CRUD operations  
 - Inspired by Spring PetClinic architecture  
 
-### ⏱️ Ticksy
-**Minimalist Timer & Stopwatch Web App**  
-- Responsive UI  
-- Dark / Light mode  
-- Clean JavaScript logic  
+## 🐔 Chicken Road Crossing Game
+**Fun Arcade-Style Web Game**
 
-### 🎮 Tic Tac Toe Game
-- 2-player & AI mode  
-- Built with HTML, CSS & JavaScript  
+- Interactive road-crossing gameplay  
+- Keyboard-based player controls  
+- Simple and clean JavaScript logic  
+- Responsive browser experience  
+- Built using **HTML, CSS & JavaScript**
 
+🔗 **GitHub Repository:**  
+https://github.com/Amazeabhi/chicken-road-crossing-game  
 
+🌐 **Live Demo:**  
+https://amazeabhi.github.io/chicken-road-crossing-game/
+
+---
+
+## 🎧 AirPods Product Website
+**Modern & Minimal Product Landing Page**
+
+- Clean and attractive UI design  
+- Smooth scrolling experience  
+- Fully responsive layout  
+- Minimal and modern styling  
+- Built using **HTML & CSS**
+
+🌐 **Live Demo:**  
+https://amazeabhi.github.io/Airpods-website/
 
 ---
 
