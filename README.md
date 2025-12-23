@@ -19,10 +19,10 @@
 
 ## 🌐 Connect With Me
 
-- 📫 **Email:** amazingabhi69@gmail.com  
+- 📫 [![Gmail](https://img.shields.io/badge/Contact%20Me-Gmail-red?style=for-the-badge&logo=gmail)](mailto:amazingabhi69@gmail.com)
+
 - 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek%20Kumar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abhishek-kumar-3b136a268)
 
-- 🧑‍💻 **GitHub:** https://github.com/Amazeabhi 
 
 ---
 
