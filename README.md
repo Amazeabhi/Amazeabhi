@@ -24,35 +24,25 @@
 - 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek%20Kumar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abhishek-kumar-3b136a268)
 - 🧑‍💻 [![GitHub](https://img.shields.io/badge/GitHub-Amazeabhi-black?style=flat&logo=github)](https://github.com/Amazeabhi)
 
-
 ---
 
-## 🛠️ Tech Stack
+## 📊 GitHub Activity
 
-### 💻 Languages
-- Java  
-- JavaScript  
-- HTML  
-- CSS  
+- Consistent learner  
+- Focused on practical projects  
+- Improving code quality and system design
 
-### 🎨 Frontend
-- React  
-- Bootstrap  
-- Tailwind CSS  
+# 📊 GitHub Stats :
+![](https://nirzak-streak-stats.vercel.app/?user=Amazeabhi&theme=dark&hide_border=falseh)
+---
 
-### ⚙️ Backend
-- Spring Boot  
-- REST APIs  
+🛠️ Tech Stack
 
-### 🗄️ Databases
-- MySQL  
-- MongoDB  
-
-### 🧰 Tools
-- Git & GitHub  
-- VS Code  
-- Postman  
-
+💻 Java · JavaScript · HTML · CSS
+🎨 React · Bootstrap · Tailwind CSS
+⚙️ Spring Boot · REST APIs
+🗄️ MySQL · MongoDB
+🧰 Git · GitHub · VS Code · Postman
 ---
 
 ## 🚀 Featured Projects
@@ -73,13 +63,7 @@
 - 2-player & AI mode  
 - Built with HTML, CSS & JavaScript  
 
----
 
-## 📊 GitHub Activity
-
-- Consistent learner  
-- Focused on practical projects  
-- Improving code quality and system design  
 
 ---
 
@@ -88,3 +72,8 @@
 > **"Learn deeply, build consistently, and grow together."**
 
 ⭐ If you like my work, consider starring my repositories!
+
+
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=Amazeabhi&color=blueviolet&style=flat-square" alt="Profile views" />
+</div>
